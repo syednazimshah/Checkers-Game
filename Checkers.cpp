@@ -1,5 +1,5 @@
-#include <iostream>//2019342 Maaz Tariq
-using namespace std; //2019504 Syed Nazim Shah
+#include <iostream>
+using namespace std; 
 class Piece {// class to  have info of each piece
   private:
     int name; // its name from 1-12
